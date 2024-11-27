@@ -1,0 +1,357 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://bmwindia.co.in/offers/5/images/5-series.webp);
+    background-repeat: no-repeat;
+        
+}
+
+.edit1{
+    width:100%;
+    
+}   
+
+
+
+.edit3{
+    display: flex;
+    gap:30px;
+    list-style-type: none;
+    font-weight:bold;
+    font-size: 20px;
+    margin-top: 15px;  
+}
+
+.a1 .edit3 a:hover{
+    border-bottom: 6px solid #008ac9;
+    padding-bottom: 35px;
+    width:20px;
+    
+}
+
+
+
+.edit2{
+    padding-bottom: 15px;
+}
+
+.a1{
+    display: flex;
+    gap: 60px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 20px;
+    border-bottom: 1px solid white;
+    
+    
+    
+}
+
+.edit3 a{
+    text-decoration: none;
+    color: white;
+}
+
+.a2{
+    margin-top: 525px;
+    margin-left: 120px;
+}
+
+.edit5{
+    font-size: 30px;
+    
+
+}
+
+.edit4{
+    font-family: 'BMWTypeNextTT-Light';
+    color:#262626;
+}
+.edit6{
+    font-size: 15px;
+}
+
+#salutation{
+    border: none;
+    border-bottom: 1px solid #838383;
+    width: 200px;
+    font-size: 15px;
+    color: grey;
+    padding-bottom: 10px;
+    margin-right: 10px;
+}
+
+.edit7{
+    margin-left: 120px;
+    margin-top: 40px;
+}
+
+#firstname{
+    border: none;
+    border-bottom: 1px solid #838383;
+    width:350px;
+    font-size: 15px;
+    color:grey;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-right: 10px;
+}
+
+#lastname{
+    border: none;
+    border-bottom: 1px solid #838383;
+    width:350px;
+    font-size: 15px;
+    color:grey;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-right: 10px;
+}
+
+#email{
+    border: none;
+    border-bottom: 1px solid #838383;
+    width:350px;
+    font-size: 15px;
+    color:grey;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-right: 10px;
+}
+
+#number{
+    border: none;
+    border-bottom: 1px solid #838383;
+    width: 450px;
+    font-size: 15px;
+    color: grey;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-right: 10px;
+
+}
+
+#select{
+    border: none;
+    border-bottom: 1px solid #838383;
+    width: 450px;
+    font-size: 15px;
+    color: grey;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-right: 10px;
+
+}
+
+#preferredcity{
+    border: none;
+    border-bottom: 1px solid #838383;
+    width: 390px;
+    font-size: 15px;
+    color: grey;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-right: 10px;
+
+}
+
+.edit8{
+    margin-left: 120px;
+    margin-top: 50px;
+}
+
+.edit9{
+    display: flex;
+    margin-left: 120px;
+    margin-top: 50px;
+    font-size: 12px;
+    
+}
+
+.edit10{
+    display: flex;
+    margin-left: 120px;
+    margin-top: 20px;
+    font-size: 12px;
+    
+}
+
+#b2{
+    text-decoration: none;
+    color: blue;
+}
+
+.edit11{
+    text-align: right;
+    margin-right:100px ;
+    
+}
+
+button{
+    width:150px;
+    height: 50px;
+    background-color:#1c69d4;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+button a{
+    color: white;
+    text-decoration: none;
+}
+
+.edit11 button:hover{
+    background:#0a57b3;
+    
+}
+
+.edit12{
+    margin-left: 120px;
+    margin-top: 50px;
+}
+
+.edit13{
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+#b3{
+    width: 410px;
+    height: 250px;
+}
+
+
+
+.edit14{
+    display: flex;
+    gap: 30px;
+    margin-left: 120px;
+    margin-right: 120px;
+   
+
+}
+
+.edit15 h3,.edit16 h3,.edit17 h3{
+    margin-top: 20px;
+    font-size: 24px;
+    color:#333333
+}
+
+.edit15 p,.edit16 p,.edit17 p{
+    margin-top: 10px;
+    color:#333333;
+    font-size: 16px;
+}
+
+.edit18{
+    margin-left: 120px;
+    margin-top: 50px;
+}
+
+.edit19{
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+.edit20{
+    display:flex;
+    gap:30px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 40px;
+}
+
+
+.edit21 h3,.edit22 h3,.edit23 h3{
+    margin-top: 20px;
+    font-size: 24px;
+    color:#333333;
+}
+
+
+
+
+.edit21 p,.edit22 p,.edit23 p{
+    margin-top: 10px;
+    color:#333333;
+    font-size: 16px;
+}
+
+.edit24{
+    font-size: 25px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+
+
+.edit26{
+    display:flex;
+    gap:30px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 40px;
+}
+
+.edit26 h3{
+    margin-top: 20px;
+    font-size: 24px;
+    color:#333333;
+}
+
+.edit26 p{
+    margin-top: 10px;
+    color:#333333;
+    font-size: 16px;
+}
+
+.a5{
+    margin-left: 120px;
+    margin-top: 60px;
+}
+
+.edit31{
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #000000;
+}
+
+.edit34{
+    text-align: right;
+}
+
+.edit35{
+    display: flex;
+    text-align: right;
+    margin-right: 120px;
+    gap:30px;
+    margin-left: 100px;
+    list-style-type: none;
+    font-size: 12px;
+    
+}
+
+.edit35 a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+
+    
+}
+
+.a6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:630px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 110px;
+}
+
